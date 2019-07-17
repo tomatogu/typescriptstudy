@@ -1,0 +1,19 @@
+{
+  "name": "typescriptstudy",
+  "version": "1.0.0",
+  "description": "keep studying typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomatogu/typescriptstudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomatogu/typescriptstudy/issues"
+  },
+  "homepage": "https://github.com/tomatogu/typescriptstudy#readme"
+}
