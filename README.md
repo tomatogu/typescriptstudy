@@ -1,0 +1,2 @@
+# typescriptstudy
+keep studying typescript
